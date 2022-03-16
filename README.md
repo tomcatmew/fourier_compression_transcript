@@ -1,6 +1,6 @@
 # fourier_feature_motion_compression
-[Paper PDF](img/2022_egshort_neuralcompression.pdf)
+[Paper PDF](paper/2022_egshort_neuralcompression.pdf)
 -------
-![s](paper/thum.png)
+![s](img/thum.png)
 
 
