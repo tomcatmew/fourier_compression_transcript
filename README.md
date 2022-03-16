@@ -1,2 +1,6 @@
-# fourier_compression_transcript
-A backup repo of our "Neural Motion Compression with Frequency-adaptive Fourier Feature Network", only contains necessary code
+# fourier_feature_motion_compression
+[Paper PDF](img/2022_egshort_neuralcompression.pdf)
+-------
+![s](img/thum.png)
+
+
